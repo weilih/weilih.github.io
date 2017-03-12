@@ -2,3 +2,23 @@ theme: jekyll-theme-leap-day
 title: "Code Gist"
 description: "a gist of code commits & learnings"
 google_analytics: "UA-91798593-1"
+gems:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      category: ""
+      layout: "page"
+  -
+    scope:
+      path: "_posts"
+    values:
+      category: "posts"
+      layout: "default"

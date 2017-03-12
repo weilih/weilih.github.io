@@ -1,6 +1,3 @@
----
-layout: page
----
 <ul class="post-list">
 {% for post in site.posts %}
   <li><article>

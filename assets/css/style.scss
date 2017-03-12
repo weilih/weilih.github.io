@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+code.highlighter-rouge {
+  padding: 0;
+  background-color: dimgrey;
+}
+
 div.comments {
   padding: 5 0;
   width: 640px;
