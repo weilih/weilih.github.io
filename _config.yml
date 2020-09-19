@@ -1,7 +1,6 @@
 theme: jekyll-theme-leap-day
 title: "Code Gist"
 description: "a gist of code commits & learnings"
-google_analytics: "UA-91798593-1"
 gems:
   - jemoji
   - jekyll-avatar
